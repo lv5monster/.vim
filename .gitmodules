@@ -1,0 +1,51 @@
+[submodule "bundle/vim-pathogen"]
+	path = bundle/vim-pathogen
+	url = git://github.com/tpope/vim-pathogen.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = git://github.com/scrooloose/nerdtree.git
+[submodule "bundle/command-t"]
+	path = bundle/command-t
+	url = git://git.wincent.com/command-t.git
+[submodule "bundle/vim-colors-solarized"]
+	path = bundle/vim-colors-solarized
+	url = git://github.com/altercation/vim-colors-solarized
+[submodule "bundle/colorchemes"]
+	path = bundle/colorchemes
+	url = git://github.com/flazz/vim-colorschemes.git
+[submodule "vim-colors-solarized"]
+	path = vim-colors-solarized
+	url = git://github.com/altercation/vim-colors-solarized
+[submodule "bundle/ultisnips"]
+	path = bundle/ultisnips
+	url = git://github.com/SirVer/ultisnips.git
+[submodule "bundle/tagbar"]
+	path = bundle/tagbar
+	url = git://github.com/majutsushi/tagbar
+[submodule "bundle/TagHighlight"]
+	path = bundle/TagHighlight
+	url = git://github.com/magic-dot-files/TagHighlight
+[submodule "bundle/vim-powerline"]
+	path = bundle/vim-powerline
+	url = git://github.com/Lokaltog/vim-powerline
+[submodule "bundle/vim-commentary"]
+	path = bundle/vim-commentary
+	url = git://github.com/tpope/vim-commentary
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = git://github.com/scrooloose/syntastic
+[submodule "bundle/delimitMate"]
+	path = bundle/delimitMate
+	url = git://github.com/Raimondi/delimitMate
+[submodule "bundle/a"]
+	path = bundle/a
+	url = git://github.com/vim-scripts/a.vim
+[submodule "bundle/clang_complete"]
+	path = bundle/clang_complete
+	url = git://github.com/oblitum/clang_complete
+[submodule "bundle/neocomplcache"]
+	path = bundle/neocomplcache
+	url = git://github.com/Shougo/neocomplcache
+[submodule "bundle/neocomplcache-clang_complete"]
+	path = bundle/neocomplcache-clang_complete
+	url = git://github.com/osyo-manga/neocomplcache-clang_complete
